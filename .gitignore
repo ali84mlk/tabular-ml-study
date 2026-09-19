@@ -3,13 +3,13 @@ __pycache__/
 *.py[cod]
 *.pyo
 
-# Jupyter
-.ipynb_checkpoints/
-
 # Virtual environments
 .venv/
 venv/
 env/
+
+# Jupyter
+.ipynb_checkpoints/
 
 # IDE
 .vscode/
